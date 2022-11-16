@@ -14,8 +14,11 @@ I am studying for a master's degree at [Institute of Information Engineering (II
 
 &#127752; News
 ===
-<p>&#128640; I am awarded with the national scholarship for postgraduate students (20,000 RMB).</p>
-<p>&#128640; Three papers have been submitted to CVPR2023, focusing on text-video retrieval.</p>
+&#128640; \[Nov, 2022\] I am awarded with the national scholarship for postgraduate students (20,000 RMB).
+
+&#128640; \[Nov, 2022\] Three papers have been submitted to CVPR2023, focusing on text-video retrieval.
+
+&#128640; \[Oct, 2022\] _MaMiCo_ has been selected as an oral presentation at MM'2022.
 
 <!-- Research Interests
 ======
