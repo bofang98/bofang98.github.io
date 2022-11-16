@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "  Bo Fang"
+  name             : "Bo Fang"
   avatar           : "profile.png"
   bio              : "Master student at IIE, CAS"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=JktxiX8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  email            : "fangbo@iie.ac.cn"
 
 
 # Reading Files
@@ -175,9 +176,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -210,14 +211,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#   - scope:
+#       path: ""
+#       type: teaching
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
   # _publications
   - scope:
       path: ""
