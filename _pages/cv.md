@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 <div id="example1"></div>
-<script src="/assets/js/pdfobject.js"></script>
+<script src="/assets/js/pdfobject.min.js"></script>
 <script>PDFObject.embed("/images/CV-new.pdf", "#example1");</script>
+What's this?
