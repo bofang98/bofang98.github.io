@@ -12,10 +12,10 @@ I am studying for a master's degree at [Institute of Information Engineering (II
 
 <p><font color="red">I will graduate in 2023 Fall, and am looking for a PhD or RA position, working on computer vision research and applications.</font></p>
 
-\[News&#127752\]
+\[News&#127752;\]
 ===
-<p>&#127752 I am awarded with the national scholarship for postgraduate students (20,000 RMB).</p>
-<p>&#127752 Three papers have been submitted to CVPR2023, focusing on text-video retrieval.</p>
+<p>&#127752; I am awarded with the national scholarship for postgraduate students (20,000 RMB).</p>
+<p>&#127752; Three papers have been submitted to CVPR2023, focusing on text-video retrieval.</p>
 
 <!-- Research Interests
 ======
