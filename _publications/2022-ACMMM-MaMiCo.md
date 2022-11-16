@@ -5,6 +5,7 @@ permalink: /publication/2022-ACMMM-MaMiCo
 excerpt: 'Bo Fang, Wenhao Wu, Chang Liu, Yu Zhou, Dongliang He, Weiping Wang.'
 date: 2022-11-01
 venue: 'ACM MM'
+info: 'oral presentation, 5%'
 ---
 Bo Fang, Wenhao Wu, Chang Liu, Yu Zhou, Dongliang He, Weiping Wang
 
