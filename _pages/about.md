@@ -15,7 +15,7 @@ I am studying for a master's degree at [Institute of Information Engineering (II
 \[News&#127752;\]
 ===
 <p>&#127752; I am awarded with the national scholarship for postgraduate students (20,000 RMB).</p>
-<p>&#127752; Three papers have been submitted to CVPR2023, focusing on text-video retrieval.</p>
+<p>&#128640; Three papers have been submitted to CVPR2023, focusing on text-video retrieval.</p>
 
 <!-- Research Interests
 ======
