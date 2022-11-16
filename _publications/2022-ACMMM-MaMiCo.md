@@ -1,7 +1,7 @@
 ---
 title: "MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-ACMMM-MaMiCo
 excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022
 venue: 'ACM MM'
