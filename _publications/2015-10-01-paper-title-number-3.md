@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
+date: 2022
+venue: 'ACM MM'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3503161.3547888'
+citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Bo Fang, Wenhao Wu, Chang Liu, Yu Zhou, Dongliang He, Weiping Wang
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3503161.3547888)
