@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am studying for a master's degree at [Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou). Before that, I received my B.E. degree in software engineering from [Xiamen University (XMU)](https://www.xmu.edu.cn/). I am interested in *video understanding*, typically in *video self-supervised representation learning* and *text-video cross-modal pretraining & retrieval*.
-
+I am studying for a master's degree at [Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou). Before that, I received my B.E. degree in software engineering from [Xiamen University (XMU)](https://www.xmu.edu.cn/). I worked as a reasearch intern in VIS Baidu Inc from Sep. 2021, working closely with [Dr. Wenhao Wu](https://whwu95.github.io/). Also, I have maintained long-term cooperation with Dr. Chang Liu at Tsinghua University. 
+<!-- I am interested in *video understanding*, typically in *video self-supervised representation learning* and *text-video cross-modal pretraining & retrieval*.
+ -->
+ 
 <p><font color="red">I will graduate in 2023 Fall, and am looking for a PhD or RA position, working on computer vision research and applications.</font></p>
 
 &#127752; News
