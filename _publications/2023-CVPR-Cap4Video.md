@@ -7,7 +7,7 @@ date: 2023-05-01
 venue: 'CVPR'
 info: '(CVPR23 submitted, under review)'
 ---
-Wenhao Wu, Haipeng Luo, Bo Fang, Jingdong Wang, Wanli Ouyang.
+Wenhao Wu, Haipeng Luo, <b>Bo Fang</b>, Jingdong Wang, Wanli Ouyang.
 
 
 
