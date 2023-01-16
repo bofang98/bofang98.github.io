@@ -7,4 +7,4 @@ date: 2023-04-25
 venue: 'CVPR'
 info: '(CVPR23 submitted, under review)'
 ---
-YuXin Song, Min Yang, Cheng Luo, Yu Lu, Aaron S. Jackson, Bo Fang, Weicheng Xie, Linlin Shen, Siyang Song.
+YuXin Song, Min Yang, Cheng Luo, Yu Lu, Aaron S. Jackson, <b>Bo Fang</b>, Weicheng Xie, Linlin Shen, Siyang Song.
