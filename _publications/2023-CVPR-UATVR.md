@@ -7,6 +7,6 @@ date: 2023-05-02
 venue: 'CVPR'
 info: '(CVPR23 submitted, under review)'
 ---
-Bo Fang, Wenhao Wu, Chang Liu, Yu Zhou, Min Yang, Yuxin Song, Fu Li, Xiangyang Ji, Wanli Ouyang.
+<b>Bo Fang</b>, Wenhao Wu, Chang Liu, Yu Zhou, Min Yang, Yuxin Song, Fu Li, Xiangyang Ji, Wanli Ouyang.
 
 
