@@ -7,7 +7,7 @@ date: 2022-11-01
 venue: 'ACM MM'
 info: '(oral, 5%)'
 ---
-Bo Fang, Wenhao Wu, Chang Liu, Yu Zhou, Dongliang He, Weiping Wang.
+<b>Bo Fang</b>, Wenhao Wu, Chang Liu, Yu Zhou, Dongliang He, Weiping Wang.
 
 [Web](https://dl.acm.org/doi/abs/10.1145/3503161.3547888)
 
