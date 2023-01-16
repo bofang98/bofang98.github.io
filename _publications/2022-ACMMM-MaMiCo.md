@@ -2,7 +2,7 @@
 title: "MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning"
 collection: publications
 permalink: /publication/2022-ACMMM-MaMiCo
-excerpt: '<b>Bo Fang</b>, Wenhao Wu, Chang Liu, Yu Zhou, Dongliang He, Weiping Wang.'
+excerpt: 'Bo Fang, Wenhao Wu, Chang Liu, Yu Zhou, Dongliang He, Weiping Wang.'
 date: 2022-11-01
 venue: 'ACM MM'
 info: '(oral, 5%)'
