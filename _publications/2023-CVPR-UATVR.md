@@ -9,4 +9,4 @@ info: '(CVPR23 submitted, under review)'
 ---
 <b>Bo Fang</b>, Wenhao Wu, Chang Liu, Yu Zhou, Min Yang, Yuxin Song, Fu Li, Xiangyang Ji, Wanli Ouyang.
 
-PDF
+[PDF](https://arxiv.org/pdf/2301.06309.pdf)
