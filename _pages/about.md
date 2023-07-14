@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am studying for a master's degree at  Before that, I received my M.S. degree in [Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou), and B.E. degree in software engineering from [Xiamen University (XMU)](https://www.xmu.edu.cn/). I worked as a reasearch intern in VIS Baidu Inc from Sep. 2021, working closely with [Dr. Wenhao Wu](https://whwu95.github.io/). Also, I have maintained long-term cooperation with Dr. Chang Liu at Tsinghua University. 
-<!-- I am interested in *video understanding*, typically in *video self-supervised representation learning* and *text-video cross-modal understanding & retrieval*.
+Currently, I'm a new PhD student at Video, Image, and Sound Analysis Lab ([VISAL](http://visal.cs.cityu.edu.hk/)), City University of Hong Kong, supervised by [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/). Before that, I received my M.S. degree in [Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou), and B.E. degree in software engineering from [Xiamen University (XMU)](https://www.xmu.edu.cn/). I worked as a reasearch intern in VIS Baidu Inc from Sep. 2021, working closely with [Dr. Wenhao Wu](https://whwu95.github.io/). Also, I have maintained long-term cooperation with Dr. Chang Liu at Tsinghua University. 
+<!-- I am interested in *video understanding*, typically in *video self-supervised representation learning* and *text-video cross-modal understanding*.
  -->
  
 
 &#127752; News
 ===
+&#128640; \[Jul, 2023\] _UATVR_ is accepted by ICCV'2023!
+
 &#128640; \[Mar, 2023\] So glad to join **VISAL** at **CityU**, supervised by [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/).
 
-&#128640; \[Mar, 2023\] _Cap4Video_ is selected as a highlight at CVPR2023!
+&#128640; \[Mar, 2023\] _Cap4Video_ is selected as a highlight at CVPR'2023!
 
-&#128640; \[Feb, 2023\] _Cap4Video_ is accepted by CVPR2023!
+&#128640; \[Feb, 2023\] _Cap4Video_ is accepted by CVPR'2023!
 
 &#128640; \[Nov, 2022\] I am awarded with the national scholarship for postgraduate students (20,000 RMB).
 
