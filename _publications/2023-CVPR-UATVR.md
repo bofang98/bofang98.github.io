@@ -5,7 +5,6 @@ permalink: /publication/2023-CVPR-UATVR
 excerpt: 'Bo Fang, Wenhao Wu, Chang Liu, Yu Zhou, Yuxin Song, Weiping Wang, Xiangbo Shu, Xiangyang Ji, Jingdong Wang.'
 date: 2023-07-14
 venue: 'ICCV'
-info: ''
 ---
 <b>Bo Fang</b>, Wenhao Wu, Chang Liu, Yu Zhou, Yuxin Song, Weiping Wang, Xiangbo Shu, Xiangyang Ji, Jingdong Wang.
 
