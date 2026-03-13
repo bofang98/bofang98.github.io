@@ -14,13 +14,17 @@ I'm a third-year PhD candidate at Video, Image, and Sound Analysis Lab ([VISAL](
 
 &#127752; News
 ===
-&#128640; \[Jul, 2023\] _UATVR_ is accepted by ICCV'2023!
-&#128640; \[Mar, 2023\] So glad to join **VISAL** at **CityU**, supervised by [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/).
-&#128640; \[Mar, 2023\] _Cap4Video_ is selected as a **highlight** at CVPR'2023!
-&#128640; \[Nov, 2022\] I am awarded with the national scholarship for postgraduate students (20,000 RMB).
-&#128640; \[Oct, 2022\] _MaMiCo_ has been selected as an oral presentation at MM'2022.
+:bulb: \[Feb, 2026\] I received the **Outstanding Teaching Assitant Award** for course CS5495 Explainable AI.  
+:tada: \[Jan, 2026\] _**Nar-KFC**_ is accepted by ICLR'2026!  
+:tada: \[Feb, 2025\] _**DistinctAD**_ is selected as **highlight** in CVPR'2025!  
+:earth_africa: \[Sep, 2024\] I passed the PhD Qualifying Exam. GPA: 3.8/4.0.   
+:earth_africa: \[Sep, 2023\] So glad to join **VISAL** at **CityU**, supervised by [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/).  
+:tada: \[Jul, 2023\] _**UATVR**_ is accepted by ICCV'2023!   
+:tada: \[Mar, 2023\] _**Cap4Video**_ is selected as a **highlight** at CVPR'2023!  
+:bulb: \[Nov, 2022\] I am awarded with the **national scholarship** for postgraduate students (20,000 RMB).  
+:tada: \[Oct, 2022\] _**MaMiCo**_ has been selected as an **oral** presentation at MM'2022.  
 
 <!-- Research Interests
 ======
-My research is in the area of video-related vision tasks and video content understanding, with an emphasis on video self-supervised representation learning and text-video cross-modal retrieval. Meanwhile, I keep focused on contrastive self-supervised learning, vision base model developments, and large-scale (vision-language) pretraining, which can overall boost my research in videos. -->
+Currently, my research is centered on advancing video understanding, reasoning, and generation in multimodal contexts, with a particular emphasis on long-form video content. -->
 
