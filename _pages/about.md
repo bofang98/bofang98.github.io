@@ -10,6 +10,7 @@ redirect_from:
 
 I'm a third-year PhD candidate at Video, Image, and Sound Analysis Lab ([VISAL](http://visal.cs.cityu.edu.hk/)), City University of Hong Kong, supervised by [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/). Before that, I received my M.S. degree in [Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou), and B.E. degree in software engineering from [Xiamen University (XMU)](https://www.xmu.edu.cn/). I worked as a reasearch intern in VIS Baidu Inc from Sep. 2021, working closely with [Dr. Wenhao Wu](https://whwu95.github.io/) and [Yuxin Song](https://scholar.google.com.hk/citations?hl=zh-CN&user=1uL_9HAAAAAJ). 
 
+_Currently, my research is centered on advancing video understanding, reasoning, and generation in multimodal contexts, with a particular emphasis on long-form video formats._
  
 
 &#127752; News
