@@ -15,14 +15,14 @@ _Currently, my research is centered on advancing video understanding, reasoning,
 
 &#127752; News
 ===
-💡 \[Feb, 2026\] I received the **Outstanding Teaching Assitant Award** for course CS5495 Explainable AI.  
+💡 \[Feb, 2026\] I received the **Outstanding Teaching Assitant Award** for Explainable AI.  
 🎉 \[Jan, 2026\] _**Nar-KFC**_ is accepted by ICLR'2026!  
 🎉 \[Feb, 2025\] _**DistinctAD**_ is selected as **highlight** in CVPR'2025!  
 🌍 \[Sep, 2024\] I passed the PhD Qualifying Exam. GPA: 3.8/4.0.   
 🌍 \[Sep, 2023\] So glad to join **VISAL** at **CityU**, supervised by [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/).  
 🎉 \[Jul, 2023\] _**UATVR**_ is accepted by ICCV'2023!   
 🎉 \[Mar, 2023\] _**Cap4Video**_ is selected as a **highlight** at CVPR'2023!  
-💡 \[Nov, 2022\] I am awarded with the **national scholarship** for postgraduate students (20,000 RMB).  
+💡 \[Nov, 2022\] I was awarded with the **national scholarship**(20,000 RMB).  
 🎉 \[Oct, 2022\] _**MaMiCo**_ has been selected as an **oral** presentation at MM'2022.  
 
 <!-- Research Interests
