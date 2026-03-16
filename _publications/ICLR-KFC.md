@@ -8,7 +8,7 @@ venue: 'ICLR'
 ---
 <b>Bo Fang</b>, YuXin Song, Haoyuan Sun, Qiangqiang Wu, Wenhao Wu, Antoni B. Chan
 
-<img src="../images/KFC.png" width="400">
+<img src="../images/KFC.png" width="300">
 
 [PDF](https://openreview.net/forum?id=kyLS9EhPhY)  
 [CODE](https://github.com/bofang98/Nar-KFC)
