@@ -8,5 +8,6 @@ venue: 'ICCV'
 ---
 <b>Bo Fang</b>, Wenhao Wu, Chang Liu, Yu Zhou, Yuxin Song, Weiping Wang, Xiangbo Shu, Xiangyang Ji, Jingdong Wang.
 
-[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_UATVR_Uncertainty-Adaptive_Text-Video_Retrieval_ICCV_2023_paper.pdf)  
-[CODE](https://github.com/bofang98/UATVR)
+<img src="/images/UATVR.png" width="800">
+
+[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_UATVR_Uncertainty-Adaptive_Text-Video_Retrieval_ICCV_2023_paper.pdf) | [CODE](https://github.com/bofang98/UATVR)
