@@ -10,4 +10,5 @@ venue: 'ICCV'
 
 <img src="/images/UATVR.png" width="800">
 
-[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_UATVR_Uncertainty-Adaptive_Text-Video_Retrieval_ICCV_2023_paper.pdf) | [CODE](https://github.com/bofang98/UATVR)
+[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_UATVR_Uncertainty-Adaptive_Text-Video_Retrieval_ICCV_2023_paper.pdf)  
+[CODE](https://github.com/bofang98/UATVR)
