@@ -8,7 +8,7 @@ venue: 'Under Review'
 ---
 <b>Bo Fang</b>, YuXin Song, Haoyuan Sun, Qiangqiang Wu, Wenhao Wu, Antoni B. Chan
 
-<img src="../images/ViSS-R1.png" width="300">
+<img src="../images/ViSS-R1.png" width="800">
 
 [PDF](https://arxiv.org/pdf/2511.13054)  
 
