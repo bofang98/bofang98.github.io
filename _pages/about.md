@@ -15,6 +15,7 @@ _Currently, my research is centered on advancing video understanding, reasoning,
 
 &#127752; News
 ===
+🎉 \[Mar, 2026\] _**ViSS-R1**_ is accepted by CVPR 2026 Workshop GRAIL-V!  
 💡 \[Feb, 2026\] I received the **Outstanding Teaching Assitant Award** for Explainable AI.  
 🎉 \[Jan, 2026\] _**Nar-KFC**_ is accepted by ICLR'2026!  
 🎉 \[Feb, 2025\] _**DistinctAD**_ is selected as **highlight** in CVPR'2025!  
